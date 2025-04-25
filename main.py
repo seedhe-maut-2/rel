@@ -14,11 +14,11 @@ from telegram.ext import (
 )
 
 # Configuration
-BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '')
-CHANNEL_ID =   # Channel where videos are stored
-VERIFICATION_CHANNEL_ID =  # List of channel IDs  # Channel users must join
+BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '7911074382:AAFg2PzuLm89ywFBPBBe6nKt4EgI22b8OMY')
+CHANNEL_ID = -1002441094491  # Channel where videos are stored
+VERIFICATION_CHANNEL_ID = -1001973904304 # List of channel IDs  # Channel users must join
   # Without @ symbol
-ADMIN_IDS = {}  # Admin user IDs
+ADMIN_IDS = {8167507955}  # Admin user IDs
 DELETE_AFTER_SECONDS = 14400  # Auto-delete messages after 2 minutes
 MAX_CONCURRENT_TASKS = 10  # Limit concurrent video sending tasks per user
 MAX_DELETE_RETRIES = 3  # Max attempts to delete a message
