@@ -130,7 +130,7 @@ Please join our channel first to use this bot:
     [
         InlineKeyboardButton("Join Channel", url="https://t.me/+kC_WnpSy-icyNmI1"),
         InlineKeyboardButton("Join Channel", url="https://t.me/+ZyYHoZg-qL0zN2Nl"),
-        InlineKeyboardButton("Join Channel", url="https://t.me/DARKMETHODHUB")
+        InlineKeyboardButton("Join Channel", url="https://t.me/+RrBL1LXS47pmNjk1")
     ],
         [InlineKeyboardButton("✅ I've Joined", callback_data='check_join')]
     ]
